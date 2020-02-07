@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints/
+.DS_Store
+_pycache_
+.ipynb_checkpoints
+functions.cpython-37.pyc
